@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="ml-1 mt-4">Data Source : https://covid19.mathdro.id/api</p>
+                        
                     </div>
                     <div class="col-lg-4 col-md-4">
                         <div class="card shadow bg-success text-white w-100 mt-5">
@@ -107,6 +107,7 @@
                                 </div>
                             </div>
                         </div>
+                        <p class="ml-1 mt-4">Data Source : https://covid19.mathdro.id/api</p>
                     </div>
                 </div>
             </div>
